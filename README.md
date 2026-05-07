@@ -5,6 +5,8 @@ A battery-powered musical box circuit that plays a custom MP3 when opened. Doesn
 
 ![DIY Arduino + DFPlayer Mini Music Box circuit diagram](assets/DIY%20Arduino%20+%20DFPlayer%20Music%20Box%20circuit%20diagram.jpeg)
 
+[Check out the guide & tips on my website!](https://bilusgarage.com/diy-musical-gift-box-arduino-dfplayer-mini-guide/)
+
 ## ✨ Features
 *   **Absolute Zero Idle Drain:** The limit switch is wired directly into the main power circuit. When the box is closed, the circuit is physically broken—meaning 0.0mA of battery drain. 
 *   **Clone-Proof Logic:** Built specifically to work with the notoriously stubborn **HW-247A V0.5.1** DFPlayer Mini clones that lack standalone ADKEY functionality.
